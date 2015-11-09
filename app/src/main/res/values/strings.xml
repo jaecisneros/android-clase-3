@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListHotels</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Clase 3</string>
+    <string name="hotel_name">Nombre lalala</string>
+    <string name="puntuation">Puntuacion</string>
+    <string name="description">Descripcion:</string>
+</resources>
